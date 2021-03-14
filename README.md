@@ -1,2 +1,2 @@
 # git-github
-this is for learing.
+This is for learing.
